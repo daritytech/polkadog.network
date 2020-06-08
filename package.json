@@ -11,6 +11,7 @@
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-faq-accordion": "^1.6.1",
+    "vue-gtag": "^1.6.2",
     "vue-typed-js": "^0.1.2"
   },
   "devDependencies": {
